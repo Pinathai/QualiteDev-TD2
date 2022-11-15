@@ -61,7 +61,7 @@
 											"top": 343,
 											"width": 89.6162109375,
 											"height": 13,
-											"text": "Identifiant"
+											"text": "exercice1.Identifiant"
 										},
 										{
 											"_type": "LabelView",
@@ -129,7 +129,7 @@
 											"top": 366,
 											"width": 89.6162109375,
 											"height": 13,
-											"text": "-gen: Identifiant",
+											"text": "-gen: exercice1.Identifiant",
 											"horizontalAlignment": 0
 										},
 										{
@@ -215,7 +215,7 @@
 											"top": 434,
 											"width": 89.6162109375,
 											"height": 13,
-											"text": "-Identifiant()",
+											"text": "-exercice1.Identifiant()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -284,7 +284,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Identifiant",
+					"name": "exercice1.Identifiant",
 					"attributes": [
 						{
 							"_type": "UMLAttribute",
@@ -332,7 +332,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGEe42+KQPE0Xo="
 							},
-							"name": "Identifiant",
+							"name": "exercice1.Identifiant",
 							"visibility": "private"
 						}
 					]

@@ -1,3 +1,5 @@
+package exercice1;
+
 public class IdentifiantMain {
 
     public static void main(String[] args) {
