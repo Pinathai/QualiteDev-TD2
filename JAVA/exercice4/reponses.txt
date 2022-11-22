@@ -1,2 +1,0 @@
-Question 1
-Il y a 2^7 possibilités de constructeurs, pour chaque attribut non obligatoire.
